@@ -1,0 +1,139 @@
+style.css body {
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.pagina-activa {
+    background: rgb(48, 189, 161);
+} 
+
+.navbar {
+    background: rgb(10, 124, 101);
+}
+
+.navbar .navbar-design {
+    font-size: 30px;
+    line-height: 70px;
+    margin-bottom: 0;
+    margin-right: 30px;
+}
+
+.navbar .navbar-link {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.navbar .navbar-link:hover {
+    text-decoration: none;
+} 
+
+.navbar .navbar-design img {
+    height: 70px;
+    margin-right: 20px;
+    vertical-align: bottom;
+}
+
+.navbar-link-a {
+    background: rgb(3, 62, 50);
+    border-radius: 40px;
+    color: white;
+    padding: 4px 20px;
+    text-decoration: none;
+}
+
+.a-link-h3 {
+    color: rgb(8, 99, 81);
+    text-decoration: none;
+}
+
+.whitebox {
+    background-color: white;
+    text-align: center;
+}
+
+.img-mini {
+    height: 140px;
+    border-radius: 20px;
+}
+
+.h2-white {
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.h3-white {
+    color: white;
+    text-align: center;
+}
+
+.h4-white {
+    color: white;
+    text-align: center;
+}
+
+.p-white {
+    color: white;
+    text-align: center;
+}
+
+.container-green {
+    background: rgb(2, 52, 42);
+    margin-top: 30px;
+}
+
+.h2-black {
+    color: solid black;
+    text-align: center;
+    padding: 30px;
+}
+
+.h3-black {
+    color: solid black;
+    text-align: center;
+    padding: 20px;
+}
+
+.p-black {
+    color: solid black;
+    text-align: center;
+}
+
+.img-medium {
+    height: 270px;
+    border-radius: 20px;
+}
+
+.a-link-white {
+    color: white;
+    text-decoration: none;
+}
+
+.flex-row{
+flex-direction: row;
+}
+
+.flex-col{
+flex-direction: column;
+}
+
+.a-design-img {
+    margin-top: 10px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+.footer-design {
+    background-color: rgb(8, 30, 25);
+}
+
+.img-medium-full {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.h3-black-simple {
+    color: solid black;
+    padding: 20px;
+}
